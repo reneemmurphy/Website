@@ -17,12 +17,12 @@ const Hero = () => {
             <span className="text-2xl font-light text-muted-foreground">withRenéeMurphy</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 leading-tight">
-            Your Journey to
-            <span className="block text-primary mt-2">Healing Begins Here</span>
+            Deepening Connection,
+            <span className="block text-primary mt-2">Ease, and Belonging</span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-            A compassionate space where you can explore your thoughts, process your emotions, 
-            and develop the tools you need to thrive.
+            Supporting clients as they navigate healing and growth through relationship, 
+            reflection, and understanding.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Button 

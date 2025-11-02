@@ -9,11 +9,11 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-foreground mb-4">
-              Ready to Take the First Step?
+              Begin Your Journey
             </h2>
-            <p className="text-lg text-muted-foreground">
-              Reaching out is the first step towards positive change. 
-              I'm here to support you on your journey.
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              Reaching out takes courage. I'm here to create a safe space where you can explore, 
+              reflect, and reconnect with your own wisdom and capacity for healing.
             </p>
           </div>
 

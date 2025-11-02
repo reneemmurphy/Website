@@ -38,16 +38,21 @@ const About = () => {
                 Meet Renée Murphy
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                I'm bringing decades of leadership experience to the counseling profession. Currently pursuing my MA in Clinical Mental Health Counseling at Antioch University (graduating December 2026), I focus on trauma-informed care, social justice, and somatic practices.
+                My counseling approach is grounded in relationship, reflection, and understanding clients' stories and relationships. I specialize in supporting adults navigating trauma, loss, life transitions, and questions of identity and belonging.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                My extensive training includes over 70 hours in trauma-informed care, DBT, IFS (Internal Family Systems), and somatic therapy. I'm passionate about fostering resilience through culturally responsive, evidence-based care.
+                My perspective is informed by lived experience with trauma, transition, and resilience, which deepens my trust in people's capacity to heal, grow, and connect. I believe counseling begins when people feel safe enough to explore the stories, patterns, and parts of themselves shaped by experience, culture, and family.
               </p>
-              <div className="space-y-2 text-sm text-muted-foreground">
-                <p>• Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)</p>
-                <p>• Dialectical Behavior Therapy (DBT) Intensive Training</p>
-                <p>• Internal Family Systems (IFS) Trained</p>
-                <p>• Foundations of Somatic Therapy for Trauma</p>
+              <p className="text-lg text-muted-foreground leading-relaxed mb-4">
+                I bring a steady and curious presence to the counseling relationship, creating space for authentic expression and gentle transformation. My goal is to help clients reconnect with the parts of themselves that feel wounded or disconnected and start to experience a greater sense of wholeness, trust, and ease.
+              </p>
+              <div className="mt-6 pt-6 border-t border-border/50">
+                <p className="text-sm font-medium text-foreground mb-2">Clinical Training & Education</p>
+                <div className="space-y-1 text-sm text-muted-foreground">
+                  <p>• MA Clinical Mental Health Counseling, Antioch University (Dec 2026)</p>
+                  <p>• 70+ hours: Trauma-Informed Care, DBT, IFS, Somatic Therapy</p>
+                  <p>• TF-CBT Certified • IFS Level 1 Training</p>
+                </div>
               </div>
             </div>
           </div>

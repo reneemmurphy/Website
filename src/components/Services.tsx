@@ -5,23 +5,23 @@ const Services = () => {
   const services = [
     {
       icon: Brain,
-      title: "Anxiety & Stress Management",
-      description: "Learn practical techniques to manage overwhelming thoughts and find calm in daily life"
-    },
-    {
-      icon: Smile,
-      title: "Depression Support",
-      description: "Work through feelings of sadness and rediscover joy and meaning in your life"
-    },
-    {
-      icon: Users,
-      title: "Relationship Counseling",
-      description: "Improve communication and strengthen connections with those who matter most"
+      title: "Trauma & Loss",
+      description: "Navigate the impact of trauma and loss with compassionate, evidence-based support that honors your story"
     },
     {
       icon: TrendingUp,
-      title: "Personal Growth",
-      description: "Develop self-awareness and build the skills for lasting positive change"
+      title: "Life Transitions",
+      description: "Find clarity and strength during major life changes, discovering new possibilities for growth"
+    },
+    {
+      icon: Users,
+      title: "Identity & Belonging",
+      description: "Explore questions of identity and belonging, building deeper connection with yourself and others"
+    },
+    {
+      icon: Smile,
+      title: "Wholeness & Integration",
+      description: "Reconnect with parts of yourself that feel wounded or disconnected, moving toward greater ease"
     }
   ];
 
@@ -30,11 +30,12 @@ const Services = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-foreground mb-4">
-            Areas of Focus
+            How We Work Together
           </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Drawing from evidence-based modalities including trauma-informed care, DBT, 
-            IFS, and somatic practices to support your healing journey.
+          <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
+            Through collaboration and compassion, we explore how your experiences, culture, and 
+            relationships have shaped you. Together, we work toward understanding and integration, 
+            building self-awareness and connection that support lasting growth and change.
           </p>
         </div>
 
