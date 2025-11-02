@@ -4,7 +4,10 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="text-center text-muted-foreground text-sm">
           <p className="mb-2">
-            © {new Date().getFullYear()} Mental Health Counseling Practice. All rights reserved.
+            © {new Date().getFullYear()} withRenéeMurphy. All rights reserved.
+          </p>
+          <p className="text-xs mb-2">
+            Renée M. Murphy, MA Clinical Mental Health Counseling Student • Antioch University New England
           </p>
           <p className="text-xs">
             If you are experiencing a mental health emergency, please call 988 (Suicide & Crisis Lifeline) 

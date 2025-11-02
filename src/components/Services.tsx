@@ -30,11 +30,11 @@ const Services = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-foreground mb-4">
-            How I Can Help
+            Areas of Focus
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            I offer specialized support for a range of mental health concerns, 
-            tailoring my approach to meet your unique needs and goals.
+            Drawing from evidence-based modalities including trauma-informed care, DBT, 
+            IFS, and somatic practices to support your healing journey.
           </p>
         </div>
 

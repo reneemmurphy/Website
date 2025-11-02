@@ -1,5 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Heart, Shield, Sparkles } from "lucide-react";
+import headshotImage from "@/assets/renee-headshot.jpg";
 
 const About = () => {
   const values = [
@@ -23,16 +24,33 @@ const About = () => {
   return (
     <section className="py-20 bg-gradient-to-b from-background to-muted/30">
       <div className="container mx-auto px-4">
-        <div className="max-w-3xl mx-auto text-center mb-16">
-          <h2 className="text-4xl font-bold text-foreground mb-6">
-            About My Practice
-          </h2>
-          <p className="text-lg text-muted-foreground leading-relaxed">
-            As an emerging mental health counselor, I'm dedicated to supporting individuals 
-            through life's challenges with empathy, understanding, and evidence-based practices. 
-            Whether you're dealing with anxiety, depression, relationship issues, or simply seeking 
-            personal growth, I'm here to help you navigate your path forward.
-          </p>
+        <div className="max-w-4xl mx-auto mb-16">
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+            <div>
+              <img 
+                src={headshotImage} 
+                alt="Renée M. Murphy, MA Clinical Mental Health Counseling Student" 
+                className="rounded-2xl shadow-[var(--shadow-card)] w-full"
+              />
+            </div>
+            <div>
+              <h2 className="text-4xl font-bold text-foreground mb-6">
+                Meet Renée Murphy
+              </h2>
+              <p className="text-lg text-muted-foreground leading-relaxed mb-4">
+                I'm bringing decades of leadership experience to the counseling profession. Currently pursuing my MA in Clinical Mental Health Counseling at Antioch University (graduating December 2026), I focus on trauma-informed care, social justice, and somatic practices.
+              </p>
+              <p className="text-lg text-muted-foreground leading-relaxed mb-4">
+                My extensive training includes over 70 hours in trauma-informed care, DBT, IFS (Internal Family Systems), and somatic therapy. I'm passionate about fostering resilience through culturally responsive, evidence-based care.
+              </p>
+              <div className="space-y-2 text-sm text-muted-foreground">
+                <p>• Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)</p>
+                <p>• Dialectical Behavior Therapy (DBT) Intensive Training</p>
+                <p>• Internal Family Systems (IFS) Trained</p>
+                <p>• Foundations of Somatic Therapy for Trauma</p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">

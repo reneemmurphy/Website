@@ -28,8 +28,8 @@ const Contact = () => {
                     <Mail className="w-5 h-5 text-primary mt-1" />
                     <div>
                       <p className="font-medium text-foreground">Email</p>
-                      <a href="mailto:contact@example.com" className="text-muted-foreground hover:text-primary transition-colors">
-                        contact@example.com
+                      <a href="mailto:renee.morgan.murphy@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                        renee.morgan.murphy@gmail.com
                       </a>
                     </div>
                   </div>
@@ -37,8 +37,8 @@ const Contact = () => {
                     <Phone className="w-5 h-5 text-primary mt-1" />
                     <div>
                       <p className="font-medium text-foreground">Phone</p>
-                      <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                        (123) 456-7890
+                      <a href="tel:+17742441474" className="text-muted-foreground hover:text-primary transition-colors">
+                        (774) 244-1474
                       </a>
                     </div>
                   </div>
@@ -47,8 +47,8 @@ const Contact = () => {
                     <div>
                       <p className="font-medium text-foreground">Location</p>
                       <p className="text-muted-foreground">
-                        Virtual sessions available<br />
-                        Serving clients nationwide
+                        Richmond, NH<br />
+                        Virtual sessions available
                       </p>
                     </div>
                   </div>

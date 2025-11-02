@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-therapy.jpg";
+import heroImage from "@/assets/hero-path.jpg";
 
 const Hero = () => {
   return (
@@ -13,6 +13,9 @@ const Hero = () => {
       
       <div className="container relative z-10 mx-auto px-4 py-20">
         <div className="max-w-2xl">
+          <div className="mb-4">
+            <span className="text-2xl font-light text-muted-foreground">withRenéeMurphy</span>
+          </div>
           <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 leading-tight">
             Your Journey to
             <span className="block text-primary mt-2">Healing Begins Here</span>
@@ -26,7 +29,7 @@ const Hero = () => {
               size="lg" 
               className="text-lg px-8 shadow-[var(--shadow-soft)] hover:shadow-[var(--shadow-card)] transition-all"
             >
-              Schedule a Session
+              Schedule a Consultation
             </Button>
             <Button 
               size="lg" 
