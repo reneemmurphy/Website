@@ -1,19 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="bg-foreground/5 py-8 border-t border-border/50">
-      <div className="container mx-auto px-4">
-        <div className="text-center text-muted-foreground text-sm">
-          <p className="mb-2">
-            © {new Date().getFullYear()} Renée Murphy. All rights reserved.
-          </p>
-          <p className="text-xs mb-2">
-            Renée M. Murphy, MA Clinical Mental Health Counseling Student • Antioch University New England
-          </p>
-          <p className="text-xs">
-            If you are experiencing a mental health emergency, please call 988 (Suicide & Crisis Lifeline) 
-            or visit your nearest emergency room.
-          </p>
-        </div>
+    <footer className="py-6 border-t border-border text-muted-foreground text-sm" role="contentinfo">
+      <div className="container mx-auto px-4 max-w-[980px] text-center">
+        © 2025 Renée M. Murphy · Counselor in Training · AMHCA Ethics Compliant
       </div>
     </footer>
   );
