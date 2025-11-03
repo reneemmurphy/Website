@@ -8,7 +8,7 @@ const Hero = () => {
         className="absolute inset-0 bg-cover bg-center"
         style={{ backgroundImage: `url(${heroImage})` }}
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-background/75 via-background/50 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-background/90 via-background/70 to-background/40" />
       </div>
       
       <div className="container relative z-10 mx-auto px-4 py-20">
@@ -21,8 +21,7 @@ const Hero = () => {
             <span className="block text-primary mt-2">Ease, and Belonging</span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-            Supporting clients as they navigate healing and growth through relationship, 
-            reflection, and understanding.
+            Supporting clients in deepening connection, ease, and belonging as they navigate healing and growth.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Button 

@@ -38,13 +38,13 @@ const About = () => {
                 Meet Renée Murphy
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                My counseling approach is grounded in relationship, reflection, and understanding clients' stories and relationships. I specialize in supporting adults navigating trauma, loss, life transitions, and questions of identity and belonging.
+                My counseling approach is grounded in relationship, reflection, and understanding clients' stories and relationships. I specialize in supporting adults navigating trauma, loss, life transitions, and questions of identity and belonging. My perspective is shaped by a diverse life path that has included early experiences in foster care and adoption, service in the military, a long career in the tech industry, and training in meditation and compassion-based practices.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                My perspective is informed by lived experience with trauma, transition, and resilience, which deepens my trust in people's capacity to heal, grow, and connect. I believe counseling begins when people feel safe enough to explore the stories, patterns, and parts of themselves shaped by experience, culture, and family.
+                These experiences deepen my respect for the complexity of people's stories and the many ways we adapt, survive, and reconnect. I believe counseling begins when people feel safe enough to explore the stories, patterns, and parts of themselves shaped by experience, culture, and family. Guided by collaboration and compassion, I help clients explore how these influences have shaped their relationships with themselves and others. Through this process, they begin to rediscover trust in their own wisdom and capacity for connection.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                I bring a steady and curious presence to the counseling relationship, creating space for authentic expression and gentle transformation. My goal is to help clients reconnect with the parts of themselves that feel wounded or disconnected and start to experience a greater sense of wholeness, trust, and ease.
+                I bring a steady and curious presence to the counseling relationship, creating space for authentic expression and gentle transformation. My goal is to help clients reconnect with the parts of themselves that feel wounded or disconnected and start to experience a greater sense of wholeness, trust, and ease. Together, we work toward understanding and integration, building self-awareness and connection in ways that support lasting growth and change. Throughout my clinical and research work, I aim to honor the resilience that emerges when people understand their stories and begin to live with renewed peace and connection.
               </p>
               <div className="mt-6 pt-6 border-t border-border/50">
                 <p className="text-sm font-medium text-foreground mb-2">Clinical Training & Education</p>
