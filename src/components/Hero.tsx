@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container relative z-10 mx-auto px-4 py-20">
         <div className="max-w-2xl">
           <div className="mb-4">
-            <span className="text-2xl font-light text-muted-foreground">withRenéeMurphy</span>
+            <span className="text-2xl font-light text-muted-foreground">Renée Murphy</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 leading-tight">
             Deepening Connection,
